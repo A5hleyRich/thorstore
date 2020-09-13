@@ -29,6 +29,7 @@
     "johnpbloch/wordpress": "5.*",
     "oscarotero/env": "^1.1.0",
     "vlucas/phpdotenv": "^2.0.1",
+    "wpackagist-plugin/akismet": "^4.1",
     "wpackagist-plugin/limit-login-attempts": "*",
     "wpackagist-plugin/spinupwp": "^1.1",
     "wpackagist-theme/twentynineteen": "*"
