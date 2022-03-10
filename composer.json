@@ -32,8 +32,7 @@
     "wpackagist-plugin/akismet": "^4.4",
     "wpackagist-plugin/limit-login-attempts": "*",
     "wpackagist-plugin/spinupwp": "^1.1",
-    "wpackagist-theme/twentynineteen": "*",
-    "wpackagist-theme/twentytwenty": "*"
+    "wpackagist-theme/twentynineteen": "*"
   },
   "extra": {
     "wordpress-install-dir": "public/wp",
